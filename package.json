@@ -12,6 +12,6 @@
     "ethers": "^6.11.1"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@ngthanhthien": "https://npm.pkg.github.com"
   }
 }
