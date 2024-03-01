@@ -1,5 +1,5 @@
 {
-  "name": "@wow3/sc-service",
+  "name": "@nttsc/sc-service",
   "version": "0.1.0",
   "description": "Smart contract service by nexus",
   "main": "index.ts",
