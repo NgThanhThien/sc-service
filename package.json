@@ -1,0 +1,14 @@
+{
+  "name": "@wow3/sc-service",
+  "version": "0.1.0",
+  "description": "Smart contract service by nexus",
+  "main": "index.ts",
+  "repository": "git@github.com:NgThanhThien/sc-service.git",
+  "author": "Thiennt <thanhthienbk13@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "abitype": "^1.0.0",
+    "ethers": "^6.11.1"
+  }
+}
