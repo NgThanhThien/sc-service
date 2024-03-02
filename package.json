@@ -1,5 +1,5 @@
 {
-  "name": "@ngthanhthien/sc-service",
+  "name": "@smcts/sc-service",
   "version": "0.1.0",
   "description": "Smart contract service by nexus",
   "main": "index.ts",
@@ -12,6 +12,6 @@
     "ethers": "^6.11.1"
   },
   "publishConfig": {
-    "@ngthanhthien:registry": "https://npm.pkg.github.com"
+    "@smcts:registry": "https://npm.pkg.github.com"
   }
 }
