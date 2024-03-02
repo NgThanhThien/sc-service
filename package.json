@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Smart contract service by nexus",
   "main": "index.ts",
-  "repository": "git@github.com:NgThanhThien/sc-service.git",
+  "repository": "https://github.com:NgThanhThien/sc-service.git",
   "author": "Thiennt <thanhthienbk13@gmail.com>",
   "license": "MIT",
   "private": false,
